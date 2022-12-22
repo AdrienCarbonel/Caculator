@@ -1,5 +1,5 @@
 # Projects
-Calculatrice en Python
+Calculator , Tic Tac Toe 
 
 Créator  : Adrien Carbonel 
 
