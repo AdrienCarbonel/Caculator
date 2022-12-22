@@ -5,6 +5,7 @@ import math
 fenetre_racine = tk.Tk()
 # Fonctions
 
+    
 # Boutons pour les chiffres de 0 à 9
 bouton0 = tk.Button(fenetre_racine,text="0",font=("helvetica","20"))
 bouton1 = tk.Button(fenetre_racine,text="1",font=("helvetica","20"))
@@ -28,3 +29,8 @@ egal = tk.Button(fenetre_racine,text= "=")
 # Affichage des Boutons
 
 # Ecran de Calculatrice
+
+ecran = tk.Entry(fenetre_racine,width=50)
+
+
+fenetre_racine.mainloop()
